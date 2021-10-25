@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ricardovieiradesouza"
+  },
+  "author": "Ricardo Souza",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^12.0.1"
+  }
+}
